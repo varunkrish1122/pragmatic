@@ -1,0 +1,16 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.depositeButton {
+    width: 20%;
+    height: 32px;
+    margin: 2px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background-color: #93ffa8;
+    font-size: 20px
+}

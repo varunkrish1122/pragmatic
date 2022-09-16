@@ -1,0 +1,6 @@
+.disabledWrapper {
+    pointer-events: none;
+    cursor: not-allowed;
+    background-color: #CFB689;
+    opacity: 0.5;
+}

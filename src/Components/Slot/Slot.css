@@ -1,0 +1,33 @@
+.slotContainer {
+  padding: 0px 24px 8px;
+  background-color: #b3c2d1;
+  border-radius: 8px;
+  width: 27%;
+  margin: 4px;
+}
+
+.standardButton {
+  width: 32%;
+  height: 32px;
+  margin: 2px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.addButton {
+}
+
+.removeButton {
+  background-color: #eb5b5b;
+  color: white;
+}
+
+.displayBetInput {
+  width: 72px;
+  height: 29px;
+  border: none;
+  padding-left: 8px;
+  font-size: 16px;
+  color: black;
+}

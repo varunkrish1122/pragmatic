@@ -1,0 +1,25 @@
+.tableSplitter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.playWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+    align-items: center;    
+    flex-direction: row-reverse;
+}
+
+.playButton {
+    width: 25%;
+    padding: 8px;
+    background-color: #57df57;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
